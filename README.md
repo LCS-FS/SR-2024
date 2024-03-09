@@ -1,1 +1,7 @@
 # SR-2024
+
+Membros:
+- Fábio Sá - 202007658
+- Inês Gaspar - 202007210
+- José Gaspar - 202008561
+- Lucas Sousa - 202004682
